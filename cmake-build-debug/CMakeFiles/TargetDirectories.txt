@@ -1,0 +1,3 @@
+D:/Github/Codember/cmake-build-debug/CMakeFiles/Codember.dir
+D:/Github/Codember/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/Codember/cmake-build-debug/CMakeFiles/rebuild_cache.dir
